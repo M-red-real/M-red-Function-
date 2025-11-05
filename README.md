@@ -17,15 +17,9 @@ Published on **Zenodo**:
 
 ---
 
-## 💬 Discussion
-Reddit thread (awaiting moderation):  
-🔗 [https://www.reddit.com/r/mathematics/comments/1op25j1/new_function_mredmaximum_real_expression_defined/](https://www.reddit.com/r/mathematics/comments/1op25j1/new_function_mredmaximum_real_expression_defined/)
-
----
-
 ## 🌐 Website
 Official page:  
-🔗 [https://m-red.wuaze.com/M-red.html](https://m-red.wuaze.com/M-red.html)
+🔗 [https://m-red.wuaze.com/](https://m-red.wuaze.com/)
 
 ---
 
